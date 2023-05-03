@@ -1,0 +1,13 @@
+
+SW_21#$
+SW_21#
+SW_21#
+SW_21#
+SW_21#
+SW_21#
+SW_21#ssh -l admin 10.1.1.30
+Password:
+line 1,pos 1 lesko
+SW11>
+SW11>
+SW11>
